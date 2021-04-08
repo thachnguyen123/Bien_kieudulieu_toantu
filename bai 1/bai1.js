@@ -6,4 +6,4 @@ tong = a+b+c;
 {
     alert("diem trung binh:" + diemtrungbinh);
 }
-alert("tổng điểm:" + tong);
+alert("tong điểm:" + tong);
